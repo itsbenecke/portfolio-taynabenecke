@@ -91,8 +91,8 @@ li {
 .article-lista {
     display: flex;
     flex-direction: column;
-    margin-top: 100%;
-    margin-bottom: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .topico-principal {
@@ -108,7 +108,7 @@ li {
     margin-bottom: 32px;
 }
 
-.lista-tiulo {
+.lista-titulo {
     margin-bottom: 5px;
     font-size: 22px;
     color: #D48873;
@@ -117,7 +117,7 @@ li {
 
 .lista-local {
     font-size: 18px;
-    color: #6B422E;
+    color: #D6458E;
 }
 
 .lista-descricao {
@@ -144,7 +144,8 @@ li {
     align-items: center;
 }
 
-.estilo-icone {
-    font-size: 32px;
-    margin-right: 10px;
+.lista-rodape li a {
+    text-decoration: none;
+    color: #FFF;
+    margin-left: 10px;
 }
