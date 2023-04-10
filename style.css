@@ -96,7 +96,7 @@ li {
 }
 
 .topico-principal {
-    font-size: 36px;
+    font-size: 34px;
     color: #CE6A5F;
 }
 
@@ -139,13 +139,14 @@ li {
     color: #FFF;
     font-weight: 700;
     font-size: 18px;
-    margin-bottom: 16px;
-    display: flex;
+    padding: 2px 10px;
+    margin-bottom: 18px;
+    display: inline-block;
     align-items: center;
 }
 
 .lista-rodape li a {
     text-decoration: none;
     color: #FFF;
-    margin-left: 10px;
+    margin-left: 2px;
 }
