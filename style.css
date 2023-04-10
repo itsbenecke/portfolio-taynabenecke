@@ -43,14 +43,14 @@ li {
 }
 
 .principal {
-    height: 100vh;
+    height: 120vh;
     display: flex;
     background-color: #FFD4D4;
 }
 
 .imagem-inicial {
-    width: 200;
-    height: 250;
+    width: 150px;
+    height: 150px;
 }
 
 .container {
@@ -84,7 +84,7 @@ li {
 }
 
 .texto-sobre {
-    font-size: 20px;
+    font-size: 1.15rem;
     line-height: 32px;
 }
 
@@ -126,6 +126,19 @@ li {
     line-height: 20px;
     color: #6B422E;
     font-weight: 300;
+}
+
+.formacao {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.portfolio {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
 }
 
 .rodape {
